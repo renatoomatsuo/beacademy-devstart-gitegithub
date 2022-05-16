@@ -1,0 +1,19 @@
+# Comandos vistos nas aulas de Git e Github e também na live com o professor Régis
+
+#Comandos
+
+# mostrar todas os comandos possíveis
+git help
+
+# configurar nome do usuário
+git config --global user.name <nome>
+
+# configurar e-mail do usuário
+git config --global user.email <e-mail>
+
+#criar um novo repositório
+git init 
+
+
+# verificar estado dos arquivos/diretórios
+git status
